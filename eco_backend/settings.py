@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vvs00rh&n2mlbwb@fjwfbu03_cc_*28#)i=^==@8z&mneg=ei0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iot-ml-django-project.onrender.com']
 
 
 # Application definition
